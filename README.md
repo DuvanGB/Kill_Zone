@@ -7,4 +7,6 @@ This project was developed using Unity software, for the interaction and experie
 
 To create the application, it was necessary to use different graphic design tools to give life and animation to the characters that intervene in each scene, in addition to the implementation of logic for each object in it, such as the controllers for both the user and the the enemies in question, the generation of these throughout each map, mobility controllers and user gameplay in interaction with the computer-generated environment.
 
-<div align = "center"> ![image](https://github.com/DuvanGB/Kill_Zone/blob/main/Preview/Imagen1.jpg) </div>
+<div align = "center"> 
+  ![image](https://github.com/DuvanGB/Kill_Zone/blob/main/Preview/Imagen1.jpg) 
+</div>
