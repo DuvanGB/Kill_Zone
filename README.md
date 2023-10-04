@@ -36,3 +36,11 @@ The user is equipped with certain weapons that they can use to kill enemies, exc
 <div align = "center">
   <img src = "https://github.com/DuvanGB/Kill_Zone/assets/126369251/17f18444-570f-4080-9bad-f6fe8f05f6e1" target = "_blank"> 
 </div>
+
+These are some scenes from the game !!!
+<div align = "center">
+  <img src = "https://github.com/DuvanGB/Kill_Zone/blob/main/Preview/Imagen7.jpg" target = "_blank"> 
+  <img src = "https://github.com/DuvanGB/Kill_Zone/blob/main/Preview/Imagen8.jpg" target = "_blank"> 
+  <img src = "https://github.com/DuvanGB/Kill_Zone/blob/main/Preview/Imagen9.jpg" target = "_blank"> 
+  <img src = "https://github.com/DuvanGB/Kill_Zone/blob/main/Preview/Imagen10.jpg" target = "_blank"> 
+</div>
